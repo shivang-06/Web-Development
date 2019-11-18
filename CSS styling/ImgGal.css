@@ -1,0 +1,22 @@
+img{
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+  box-shadow: 10px 10px 5px #ccc;
+  transition: transform .2s;
+}
+img:hover{
+   transform: scale(1.15);
+}
+P{
+  font-family: Raleway ;
+  margin-left: 1.66%;
+  font-size: 23px;
+  font-weight: 800;
+  font-style: oblique;
+  text-transform: uppercase;
+  border-bottom: 2px solid #727a5d;
+  width: 30%;
+  padding: 12px;
+  box-shadow: 0 30px 40px rgba(0,0,0,.1);
+}
